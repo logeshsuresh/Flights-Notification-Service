@@ -8,6 +8,9 @@ The Flights Notification Service is responsible for handling flight-related noti
 - **RabbitMQ Integration:** Utilizes RabbitMQ for asynchronous message processing.
 - **Asynchronous Processing:** Ensures efficient and timely notification handling.
 
+## High Level Design 
+![High Level Design](https://github.com/logeshsuresh/Flights-Notification-Service/blob/master/Flights-HLD.png)
+
 
 ## Setup
 Follow these steps to set up the project locally:
